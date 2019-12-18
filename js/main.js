@@ -1,4 +1,5 @@
 let string = "Detta är en ändring för Git";
+let change = "Hej";
 
 
 //Så här stora ska rutorna vara på spelplanen
